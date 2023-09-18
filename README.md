@@ -11,5 +11,7 @@
 <h3>在此練習作品中我學到......</h3>
 <ul>
 <li>如何連結api</li>
-<li></li>
+<li>異步函數aync function(){}</li>
+<li>innerHTML之意涵</li>
+<li>以fetch抓取資料，並且將資料轉成json數據</li>
 </ul>
